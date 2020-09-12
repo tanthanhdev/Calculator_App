@@ -7,6 +7,7 @@
        1.2. Mô tả chức năng
        
 	Thông tin trên các chức năng:
+	
 		- Standard: Giá trị đầu, giá trị tiếp theo.
 		- Length: Centimeters, Meters.
 		- Speed: Kilometers per hour, Meters per hour.
